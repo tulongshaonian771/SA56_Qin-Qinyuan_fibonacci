@@ -1,0 +1,6 @@
+Oralce2\api\Saying.class
+Oralce2\health\TemplateHealthCheck.class
+Oralce2\resources\CorsFilter.class
+Oralce2\OracletestApplication.class
+Oralce2\resources\HelloWordResource.class
+Oralce2\OracletestConfiguration.class
